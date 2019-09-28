@@ -4,9 +4,9 @@ The Seurat package is used for counts data pre-processing, feature selection, cl
 ## Pre-requisites and installation 
 R (>3.4.0)
 
-`install.packages("Seurat")
+`install.packages("Seurat")`
 
-library(Seurat)`
+`library(Seurat)`
 
 ## Workflow
 1. Load counts data and annotation data (from scRNA-seq pre-processing pipeline)
