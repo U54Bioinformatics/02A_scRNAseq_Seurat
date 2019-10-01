@@ -21,7 +21,7 @@ library(Seurat)
 9. (Optional) Visualize features (markers, cell-type annotations)
 
 ### Options/Arguments
-Add parameters different from deault
+Add parameters different from default
 
 ## Updates   
 Add dataset-specific updates 
