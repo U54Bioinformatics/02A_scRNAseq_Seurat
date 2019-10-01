@@ -4,9 +4,10 @@ The Seurat package is used for counts data pre-processing, feature selection, cl
 ## Pre-requisites and installation 
 R (>3.4.0)
 
-`install.packages("Seurat")`
-
-`library(Seurat)`
+```r
+install.packages("Seurat")
+library(Seurat)
+```
 
 ## Workflow
 1. Load counts data and annotation data (from scRNA-seq pre-processing pipeline)
@@ -29,6 +30,6 @@ R (>3.4.0)
 
 
 ## References and documentation 
-Reference: 
+Reference: [Butler et al. Nature Biotech, 2018](https://doi.org/10.1038/nbt.4096)
 
-Vignette:
+Vignette: Satija lab home page (https://satijalab.org/seurat/vignettes.html)
