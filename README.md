@@ -20,14 +20,15 @@ library(Seurat)
 8. UMAP/TSNE Clustering and visualization 
 9. (Optional) Visualize features (markers, cell-type annotations)
 
-### Options/Arguments (different from the default)
-
-
-### Runtime  
-1-2 hours 
+### Options/Arguments
+Add parameters different from deault
 
 ## Updates   
+Add dataset-specific updates 
 
+### Cluster parameters and runtime  
+Cluster: N/A
+Desktop: 1-2 hours 
 
 ## References and documentation 
 Reference: [Butler et al. Nature Biotech, 2018](https://doi.org/10.1038/nbt.4096)
